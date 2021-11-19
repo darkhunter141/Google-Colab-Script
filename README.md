@@ -1,2 +1,5 @@
-# Google-Colab-Script
-some Important scripts for google colab :)
+- Transfer files from Mega to Google Drive
+- Torrent to google_drive
+- One_google_drive_to_another_google_drive_data_Transfer
+- Content_Transfer_GUI
+- Download from any link
